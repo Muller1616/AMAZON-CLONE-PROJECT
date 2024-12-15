@@ -12,7 +12,6 @@ This project replicates the design and structure of Amazon's homepage, focusing 
 
 
 
-
 **Technologies that I Used**
 -HTML: To structure the webpage.
 -CSS: To style and make the layout visually appealing.
